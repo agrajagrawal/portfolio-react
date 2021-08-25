@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/agrajagrawal/portfolio-react/static/js/main.d91b9f2c.chunk.js",
+    "main.js.map": "/agrajagrawal/portfolio-react/static/js/main.d91b9f2c.chunk.js.map",
+    "runtime-main.js": "/agrajagrawal/portfolio-react/static/js/runtime-main.551c81b1.js",
+    "runtime-main.js.map": "/agrajagrawal/portfolio-react/static/js/runtime-main.551c81b1.js.map",
+    "static/js/2.3969bfa0.chunk.js": "/agrajagrawal/portfolio-react/static/js/2.3969bfa0.chunk.js",
+    "static/js/2.3969bfa0.chunk.js.map": "/agrajagrawal/portfolio-react/static/js/2.3969bfa0.chunk.js.map",
+    "static/js/3.d8e96798.chunk.js": "/agrajagrawal/portfolio-react/static/js/3.d8e96798.chunk.js",
+    "static/js/3.d8e96798.chunk.js.map": "/agrajagrawal/portfolio-react/static/js/3.d8e96798.chunk.js.map",
+    "index.html": "/agrajagrawal/portfolio-react/index.html",
+    "static/js/2.3969bfa0.chunk.js.LICENSE.txt": "/agrajagrawal/portfolio-react/static/js/2.3969bfa0.chunk.js.LICENSE.txt",
+    "static/media/boy3.b2be98ed.png": "/agrajagrawal/portfolio-react/static/media/boy3.b2be98ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551c81b1.js",
+    "static/js/2.3969bfa0.chunk.js",
+    "static/js/main.d91b9f2c.chunk.js"
+  ]
+}
