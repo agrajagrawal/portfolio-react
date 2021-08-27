@@ -8,8 +8,7 @@ function Type() {
         strings: [
           "Competitive Programmer",
           "MERN Developer",
-          "Data Science Enthusiast",
-          "Flutter Developer",
+          "Data Science Enthusiast"
         ],
         autoStart: true,
         loop: true,

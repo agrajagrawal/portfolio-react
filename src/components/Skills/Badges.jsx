@@ -3,7 +3,7 @@ import {Container , Row , Col} from 'react-bootstrap'
 // import { DiAndroid, DiDart, DiGit } from "react-icons/di";
 // import {RiFlutterFill} from "react-icons/ri"
 import Zoom from '@material-ui/core/Zoom';
-import {SiBootstrap, SiC, SiCplusplus, SiDart, SiFlutter, SiGit, SiJavascript, SiMongodb, SiMysql, SiNodeDotJs, SiOpensourceinitiative, SiPython, SiReact, SiSass} from "react-icons/si"
+import {SiBootstrap, SiC, SiCplusplus, SiGit, SiJavascript, SiMongodb, SiMysql, SiNodeDotJs, SiOpensourceinitiative, SiPython, SiReact, SiSass} from "react-icons/si"
 // import {BrowserRouter as Router,Switch,Route,Link} from "react-router-dom";
 function Badges() {
    return(
@@ -31,10 +31,10 @@ function Badges() {
         <Zoom in={true}>
         <Col xs={4} lg={2} style={{marginTop:"15px"}}><SiMongodb size="40px" title="MongoDB"/></Col>
         </Zoom>
-        <Zoom in={true}>
+        {/* <Zoom in={true}>
         <Col xs={4} lg={2} style={{marginTop:"15px"}}><SiFlutter size="40px" title="Flutter"/></Col>
         
-        </Zoom>
+   </Zoom> */}
         <Zoom in={true}>
         <Col xs={4} lg={2}style={{marginTop:"15px"}}><SiMysql size="40px" title="MySQL"/></Col>
         
@@ -76,10 +76,10 @@ function Badges() {
     <Col xs={4} lg={2} style={{marginTop:"15px"}}><SiPython size="40px" title="Python"/></Col>
 
     </Zoom>
-    <Zoom in={true} style={{transitionDelay:"200ms"}}>
+    {/* <Zoom in={true} style={{transitionDelay:"200ms"}}>
     <Col xs={4} lg={2} style={{marginTop:"15px"}}><SiDart size="40px" title="Dart"/></Col>
 
-    </Zoom>
+    </Zoom> */}
     
 
 
